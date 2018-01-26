@@ -1,0 +1,1 @@
+delete from thing where that = $1;
