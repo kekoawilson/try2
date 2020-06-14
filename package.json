@@ -9,7 +9,7 @@
     "express": "^4.16.2",
     "massive": "^4.6.3",
     "passport": "^0.4.0",
-    "passport-auth0": "^0.6.1",
+    "passport-auth0": "^1.3.3",
     "react": "^16.2.0",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
